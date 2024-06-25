@@ -58,4 +58,4 @@ Please ensure your solutions are well-documented and follow the existing format.
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE]() file for more information.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/nafisalamkhan/Beecrowd-Solution/blob/main/LICENSE) file for more information.
